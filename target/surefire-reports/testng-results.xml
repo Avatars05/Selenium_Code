@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="42" started-at="2021-07-03T07:19:49 IST" finished-at="2021-07-03T07:19:49 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="42" started-at="2021-07-03T07:19:49 IST" finished-at="2021-07-03T07:19:49 IST">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="App()[pri:0, instance:qaclickacademy.AppiumTest@56ef9176]" name="App" duration-ms="4" started-at="2021-07-03T07:19:49 IST" finished-at="2021-07-03T07:19:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- App -->
+        <test-method status="PASS" signature="sdk()[pri:0, instance:qaclickacademy.AppiumTest@56ef9176]" name="sdk" duration-ms="0" started-at="2021-07-03T07:19:49 IST" finished-at="2021-07-03T07:19:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sdk -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RestApiTest">
+        <test-method status="PASS" signature="soupui()[pri:0, instance:qaclickacademy.RestApiTest@4566e5bd]" name="soupui" duration-ms="0" started-at="2021-07-03T07:19:49 IST" finished-at="2021-07-03T07:19:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- soupui -->
+        <test-method status="PASS" signature="rest()[pri:0, instance:qaclickacademy.RestApiTest@4566e5bd]" name="rest" duration-ms="0" started-at="2021-07-03T07:19:49 IST" finished-at="2021-07-03T07:19:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rest -->
+      </class> <!-- qaclickacademy.RestApiTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="alert()[pri:0, instance:qaclickacademy.SeleniumTest@1ed4004b]" name="alert" duration-ms="0" started-at="2021-07-03T07:19:49 IST" finished-at="2021-07-03T07:19:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alert -->
+        <test-method status="PASS" signature="frames()[pri:0, instance:qaclickacademy.SeleniumTest@1ed4004b]" name="frames" duration-ms="0" started-at="2021-07-03T07:19:49 IST" finished-at="2021-07-03T07:19:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frames -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
